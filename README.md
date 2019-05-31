@@ -15,7 +15,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/superterrific"><img src="https://avatars3.githubusercontent.com/u/34495737?v=4" width="100px;" alt="Dana Byerly"/><br /><sub><b>Dana Byerly</b></sub></a><br /><a href="#content-superterrific" title="Content">🖋</a></td></tr></table>
+<table><tr><td align="center"><a href="http://reubenlillie.com"><img src="https://avatars2.githubusercontent.com/u/16792087?v=4" width="100px;" alt="Reuben L. Lillie"/><br /><sub><b>Reuben L. Lillie</b></sub></a><br /><a href="#content-reubenlillie" title="Content">🖋</a></td></tr><tr><td align="center"><a href="https://github.com/superterrific"><img src="https://avatars3.githubusercontent.com/u/34495737?v=4" width="100px;" alt="Dana Byerly"/><br /><sub><b>Dana Byerly</b></sub></a><br /><a href="#content-superterrific" title="Content">🖋</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
