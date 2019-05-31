@@ -1697,6 +1697,12 @@
       "state": "Wyoming",
       "address": "210 S 3rd St Ste 200 Laramie WY 82070",
       "website": "hscoffeeroasters.com"
+    },
+    {
+      "name": "Connect Roasters",
+      "state": "Illinois",
+      "address": "",
+      "website": "connectroasters.com"
     }
   ]
 }
