@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "reubenlillie",
+      "name": "Reuben L. Lillie",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16792087?v=4",
+      "profile": "http://reubenlillie.com",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "us-coffee-roasters",
+  "projectOwner": "alexcarpenter",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
