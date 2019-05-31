@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>({{ roasters.data.length }}) - {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="https://us-coffee-roasters.com">
+  {% set css %}{% include "app.css" %}{% endset %}
+  <style>{{ css | cssmin | safe }}</style>
+</head>
+<body id="top">
+  <div class="o-container">
+    {% include "header.njk" %}
+    <main>
+    {% block content %}{% endblock %}
+    </main>
+    {% include "footer.njk" %}
+  </div>
+  <a href="#top" class="c-back-to-top"><span class="u-hidden-visually">Back to top</span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" width="24" height="24" viewBox="0 0 24 24" fill="#fff"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"/></svg></a>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<label for="">Filter by state</label>
+<select name="" id="">
+  {% for roaster in roasters.data | dedupe %}
+  <option value="{{ roaster.state | lower }}">{{ roaster.state }}</option>
+  {% endfor %}
+</select>

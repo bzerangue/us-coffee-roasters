@@ -1,0 +1,1702 @@
+{
+  "data": [
+    {
+      "name": "Mama Mocha's Coffee Emporium",
+      "state": "Alabama",
+      "address": "414 S Gay Street Auburn, AL  36830",
+      "website": "mamamocha.com"
+    },
+    {
+      "name": "The Red Cat Coffeehouse",
+      "state": "Alabama",
+      "address": "2901 2nd Ave S #120 Birmingham, AL 35233",
+      "website": "theredcatcoffeehouse.com"
+    },
+    {
+      "name": "Catel Coffee Lab",
+      "state": "Arizona",
+      "address": "225 W. University Dr, Tempe AZ 85281",
+      "website": "cartelcoffeelab.com"
+    },
+    {
+      "name": "Provision Coffee",
+      "state": "Arizona",
+      "address": "260 S Arizona Ave, Chandler, AZ",
+      "website": "provisioncoffee.com"
+    },
+    {
+      "name": "Nom de Plume Roasters",
+      "state": "Arizona",
+      "address": "PO Box 169, Phoenix, AZ",
+      "website": "nomdeplumeroasters.com"
+    },
+    {
+      "name": "Exo Roast",
+      "state": "Arizona",
+      "address": "403 N 6th Ave Tucson, AZ 85705",
+      "website": "exocoffee.com"
+    },
+    {
+      "name": "Caffe Luce",
+      "state": "Arizona",
+      "address": "943 E university Blvd #191 Tucson, AZ 85719",
+      "website": "caffeluce.com"
+    },
+    {
+      "name": "Cartel Coffee Lab",
+      "state": "Arizona",
+      "address": "225 W University Dr, Tempe, AZ 85281",
+      "website": "cartelcoffeelab.com"
+    },
+    {
+      "name": "Altitude Coffee Lab",
+      "state": "Arizona",
+      "address": "8320 N Hayden Rd #107, Scottsdale, AZ 85258",
+      "website": "altitudecoffeelab.com"
+    },
+    {
+      "name": "Savaya coffee",
+      "state": "Arizona",
+      "address": "5350 E Broadway Blvd., Tucson, AZ 85711",
+      "website": "Savayacoffee.com"
+    },
+    {
+      "name": "Late For The Train",
+      "state": "Arizona",
+      "address": "1071 Old Canyon Court, Flagstaff, Arizona, 86001",
+      "website": "Lateforthetrain.com"
+    },
+    {
+      "name": "Fire Creek Coffee Company",
+      "state": "Arizona",
+      "address": "22 E. Route 66, Flagstaff, Arizona, 86001",
+      "website": "firecreekcoffee.com"
+    },
+    {
+      "name": "Press Coffee Roasters",
+      "state": "Arizona",
+      "address": "Phoenix AZ 85040",
+      "website": "presscoffeeaz.com"
+    },
+    {
+      "name": "Rozark Hills Coffee Roasterie",
+      "state": "Arkansas",
+      "address": "5898 Arkansas 36, Rose Bud, AR 72137",
+      "website": "rozark.com"
+    },
+    {
+      "name": "Onyx Coffee Lab",
+      "state": "Arkansas",
+      "address": "2418 N. Gregg Avenue Fayetteville, AR 72701 (479) 444-6557",
+      "website": "onyxcoffeelab.com"
+    },
+    {
+      "name": "Cat & Cloud",
+      "state": "California",
+      "address": "3600 Portola Drive Santa Cruz, Ca. 95062",
+      "website": "catandcloud.com"
+    },
+    {
+      "name": "Chromatic Coffee",
+      "state": "California",
+      "address": "5237 Stevens Creek Blvd Santa Clara, CA 95051",
+      "website": "chromaticcoffee.com"
+    },
+    {
+      "name": "Bar Nine Collective",
+      "state": "California",
+      "address": "3515 Helms Ave  Culver City, CA 90232",
+      "website": "barninela.com"
+    },
+    {
+      "name": "Dark Horse Coffee Roasters",
+      "state": "California",
+      "address": "3260 ADAMS AVE. SAN DIEGO, CA",
+      "website": "darkhorseroasting.com"
+    },
+    {
+      "name": "Roast Co.",
+      "state": "California",
+      "address": "1552 Beach St, Oakland, CA 94608",
+      "website": "roastco.com"
+    },
+    {
+      "name": "Naked Coffee",
+      "state": "California",
+      "address": "3527 Broadway Sacramento, CA 95817",
+      "website": "NakedCoffee.net"
+    },
+    {
+      "name": "Kean Coffee",
+      "state": "California",
+      "address": "2043 Westcliff Dr #100, Newport Beach, CA 92660",
+      "website": "keancoffee.com"
+    },
+    {
+      "name": "Barefoot Coffee Roasters",
+      "state": "California",
+      "address": "2475 de la cruz blvd santa clara ca 95050",
+      "website": "barefootcoffee.com"
+    },
+    {
+      "name": "Klatch Coffee",
+      "state": "California",
+      "address": "806 W Arrow Hwy, San Dimas, CA 91773",
+      "website": "klatchroasting.com"
+    },
+    {
+      "name": "Café Moto",
+      "state": "California",
+      "address": "2619 National Ave, San Diego, CA 92113",
+      "website": "cafemoto.com"
+    },
+    {
+      "name": "The Oaks Gourmet",
+      "state": "California",
+      "address": "1915 N Bronson Ave, Los Angeles, CA 90068",
+      "website": "theoaksgourmet.com"
+    },
+    {
+      "name": "Beacon Coffee",
+      "state": "California",
+      "address": "5777 Olivas Park Dr, Ventura, CA 93003",
+      "website": "beaconcoffee.com"
+    },
+    {
+      "name": "Temple Coffee Roasters",
+      "state": "California",
+      "address": "2827 S Street Sacramento, CA 95816",
+      "website": "templecoffee.com"
+    },
+    {
+      "name": "ROCCHIO FAMILY ROASTERS",
+      "state": "California",
+      "address": "",
+      "website": "rocchiofamilyroasters.com"
+    },
+    {
+      "name": "Stumptown",
+      "state": "California",
+      "address": "806 South Santa Fe Avenue, Los Angeles",
+      "website": "stumptowncoffee.com/location/los-angeles"
+    },
+    {
+      "name": "Augies Coffee Roasters",
+      "state": "California",
+      "address": "113 N 5th St, Redlands, CA 92373",
+      "website": "augiescoffeehouse.com"
+    },
+    {
+      "name": "Wild Goose Coffee Roasters",
+      "state": "California",
+      "address": "1670 Sessums Dr., Redlands, CA",
+      "website": "wildgoosecoffee.com"
+    },
+    {
+      "name": "Zumbar",
+      "state": "California",
+      "address": "10920 Roselle St, San Diego, CA 92121",
+      "website": "zumbarcoffe.com"
+    },
+    {
+      "name": "Bird Rock Coffee Roasters",
+      "state": "California",
+      "address": "5627 La Jolla Boulevard La Jolla, CA 92037",
+      "website": "birdrockcoffee.com"
+    },
+    {
+      "name": "Augie's",
+      "state": "California",
+      "address": "113 N 5th St, Redlands, CA 92373",
+      "website": "augiescoffeehouse.com"
+    },
+    {
+      "name": "Augie's Coffee Roasters",
+      "state": "California",
+      "address": "113 North 5th Street, Redlands, CA 92373",
+      "website": "augiescoffeehouse.com"
+    },
+    {
+      "name": "Andytown Coffee Roasters",
+      "state": "California",
+      "address": "3655 Lawton Street, San Francisco, CA 94122",
+      "website": "andytownsf.com"
+    },
+    {
+      "name": "Melody Coffee",
+      "state": "California",
+      "address": "1441 Grove St. Unit E Healdsburg, CA 95448",
+      "website": "melodycoffee.com"
+    },
+    {
+      "name": "Taylor Maid Farms",
+      "state": "California",
+      "address": "6790 McKinley Street, Suite 130 Sebastopol, California 95472",
+      "website": "taylormaidfarms.com"
+    },
+    {
+      "name": "Taylor Maid Farms Organic Coffee",
+      "state": "California",
+      "address": "6790 McKinley St #170 Sebastopol‎ CA‎ 95472",
+      "website": "Taylormaidfarms.com"
+    },
+    {
+      "name": "Mr. Espresso",
+      "state": "California",
+      "address": "696 3rd Street Oakland, CA 94607",
+      "website": "mrespresso.com"
+    },
+    {
+      "name": "Caroline’s Coffee Roasters",
+      "state": "California",
+      "address": "128 S. Auburn St. Grass Valley, CA 95945",
+      "website": "carolinescoffee.com"
+    },
+    {
+      "name": "James Coffee Co",
+      "state": "California",
+      "address": "2355 India St San Diego, CA",
+      "website": "jamescoffeeco.com"
+    },
+    {
+      "name": "Allegro Coffee Company",
+      "state": "Colorado",
+      "address": "12799 Claude Court Thornton, CO",
+      "website": "allegrocoffee.com"
+    },
+    {
+      "name": "Corvus Coffee Roasters",
+      "state": "Colorado",
+      "address": "1740 S Broadway Denver, CO 80210",
+      "website": "corvuscoffee.com"
+    },
+    {
+      "name": "Sweet Bloom Coffee Roasters",
+      "state": "Colorado",
+      "address": "1619 Reed St Lakewood, CO 80214",
+      "website": "sweetbloomcoffee.com"
+    },
+    {
+      "name": "Novo Coffee",
+      "state": "Colorado",
+      "address": "3008 Larimer St. Denver, CO 80205",
+      "website": "novocoffee.com"
+    },
+    {
+      "name": "High Rise Coffee Roasters",
+      "state": "Colorado",
+      "address": "2421 West Cucharras Street Colorado Springs, CO 80904",
+      "website": "springscoffee.com"
+    },
+    {
+      "name": "Proper Grounds",
+      "state": "Colorado",
+      "address": "990 South Public Road B-3, Lafayette, CO 80026",
+      "website": "propergroundscoffee.com"
+    },
+    {
+      "name": "Flattop Coffee Roaster",
+      "state": "Colorado",
+      "address": "N Saint Vrain, Estes Park, CO 80517",
+      "website": "flattopcoffee.com"
+    },
+    {
+      "name": "Catalina Cafe",
+      "state": "Florida",
+      "address": "1208 Capital Cir SE, Tallahassee, FL 32301",
+      "website": "catalinacafe.com"
+    },
+    {
+      "name": "Lucky Goat Coffee",
+      "state": "Florida",
+      "address": "1196 Capital Cir NE, Tallahassee, FL 32301",
+      "website": "lucky-goat-coffee.myshopify.com"
+    },
+    {
+      "name": "Buddy Brew",
+      "state": "Florida",
+      "address": "2020 W. Kennedy Blvd. Tampa, FL 33606",
+      "website": "buddybrew.com"
+    },
+    {
+      "name": "Panther Coffee",
+      "state": "Florida",
+      "address": "2390 NW 2nd Ave Miami, FL 32317",
+      "website": "panthercoffee.com"
+    },
+    {
+      "name": "Oceana Coffee Roasters",
+      "state": "Florida",
+      "address": "221 Old Dixie Hwy Ste 1 Tequesta, FL 33469",
+      "website": "oceanacoffee.com"
+    },
+    {
+      "name": "Bold Bean Coffee Roasters",
+      "state": "Florida",
+      "address": "869 Stockton Street, Suite 1-2 Jacksonville, FL 32204",
+      "website": "boldbeancoffee.com"
+    },
+    {
+      "name": "Cool Hands",
+      "state": "Georgia",
+      "address": "3732 Canton Road, Marietta GA 30067",
+      "website": "facebook.com/CoolHandpickups?ref=hl"
+    },
+    {
+      "name": "batdorf and bronson",
+      "state": "Georgia",
+      "address": "419 W. Ponce De Leon Decatur, GA 30030",
+      "website": "batdorfcoffee.com/index.php"
+    },
+    {
+      "name": "Jittery Joes",
+      "state": "Georgia",
+      "address": "425 Barber Street Athens, GA, 30601",
+      "website": "jitteryjoes.com"
+    },
+    {
+      "name": "Batdorf & Bronson Coffee Roasters",
+      "state": "Georgia",
+      "address": "1530 Carroll Dr. NW #100 Atlanta, GA 30318",
+      "website": "batdorfcoffee.com"
+    },
+    {
+      "name": "Safehouse Coffee Roasters",
+      "state": "Georgia",
+      "address": "SAFEHOUSE COFFEE ROASTERS 109 SOUTH HILL STREET GRIFFIN, GA 30223",
+      "website": "safehousecoffeeroasters.com"
+    },
+    {
+      "name": "Evans Brothers Coffee",
+      "state": "Idaho",
+      "address": "524 Church St. Sandpoint, ID 83864",
+      "website": "evansbrotherscoffee.com"
+    },
+    {
+      "name": "Landgrove Coffee",
+      "state": "Idaho",
+      "address": "",
+      "website": "landgrovecoffee.com"
+    },
+    {
+      "name": "Gaslight Coffee Roasters",
+      "state": "Illinois",
+      "address": "2385 N Milwaukee Ave, Chicago, IL 60647",
+      "website": "gaslightcoffeeroasters.com"
+    },
+    {
+      "name": "hansa coffee roasters",
+      "state": "Illinois",
+      "address": "755 n Milwaukee ave",
+      "website": "hansacoffee.com"
+    },
+    {
+      "name": "The Expresso Shoppe",
+      "state": "Illinois",
+      "address": "524 N York Road Bensenville, IL 60106",
+      "website": "expressoshoppe.com"
+    },
+    {
+      "name": "Thirty-Thirty Coffee Co.",
+      "state": "Illinois",
+      "address": "734 Main St, Peoria, IL 61602",
+      "website": "thirty-thirtycoffee.com"
+    },
+    {
+      "name": "Coffee Hound",
+      "state": "Illinois",
+      "address": "407 N. Main Street Bloomington, IL 61701",
+      "website": "coffeehound.net"
+    },
+    {
+      "name": "Fresh Roast",
+      "state": "Illinois",
+      "address": "1153 Weiland Road Buffalo Grove",
+      "website": "freshroastllc.com"
+    },
+    {
+      "name": "The Coffee Hound",
+      "state": "Illinois",
+      "address": "407 N. Main Street Bloomington, IL 61701",
+      "website": "coffeehound.net"
+    },
+    {
+      "name": "Rockford Roasting Company",
+      "state": "Illinois",
+      "address": "206 N MAIN ST. ROCKFORD, IL 61104",
+      "website": "rockfordroastingcompany.com"
+    },
+    {
+      "name": "Columbia Street Roastery",
+      "state": "Illinois",
+      "address": "24 E Columbia Ave Champaign, IL 61820",
+      "website": "csrcoffee.com"
+    },
+    {
+      "name": "CustomCoffees",
+      "state": "Illinois",
+      "address": "9515 Seymour Avenue",
+      "website": "customcoffees.com"
+    },
+    {
+      "name": "Papanicholas Coffee",
+      "state": "Illinois",
+      "address": "1141 N. Raddant Rd. Batavia, IL 60510",
+      "website": "papanicholas.com"
+    },
+    {
+      "name": "S&W Craft Roasting Ltd.",
+      "state": "Indiana",
+      "address": "196 Lincoln Hls, Coatesville, IN 46121",
+      "website": "swroasting.com"
+    },
+    {
+      "name": "Dagger Mountain Roastery",
+      "state": "Indiana",
+      "address": "3205 Cascade Dr. Suite F Valparaiso, Indiana 46383",
+      "website": "facebook.com/pages/Dagger-Mountain-Roastery/1384690631779631"
+    },
+    {
+      "name": "Bee Coffee Roasters",
+      "state": "Indiana",
+      "address": "5510 Lafayette Road #140, Indianapolis, IN 46524",
+      "website": "beecoffeeroasters.com"
+    },
+    {
+      "name": "Quill's Coffee",
+      "state": "Indiana",
+      "address": "137 E Market St New Albany, IN 47150",
+      "website": "quillscoffee.com"
+    },
+    {
+      "name": "Hubbard & Cravens Coffee & Tea",
+      "state": "Indiana",
+      "address": "4930 N. Pennsylvania St.",
+      "website": "hubbardandcravens.com"
+    },
+    {
+      "name": "Tinker Coffee Co.",
+      "state": "Indiana",
+      "address": "212 E 16th St.",
+      "website": "tinkercoffee.com"
+    },
+    {
+      "name": "Capanna Coffee Roasters",
+      "state": "Iowa",
+      "address": "710 Pacha Pkwy Ste. 6",
+      "website": "capannacoffee.com"
+    },
+    {
+      "name": "Arcadia",
+      "state": "Iowa",
+      "address": "2712 Lincoln Way, Ames, IA 50014",
+      "website": "arcadiainames.com"
+    },
+    {
+      "name": "Burgie's Coffee & Tea Company",
+      "state": "Iowa",
+      "address": "110 Airport Road Ames, IA 50014",
+      "website": "burgiescoffee.com"
+    },
+    {
+      "name": "Sidecar Coffee",
+      "state": "Iowa",
+      "address": "109 Washington ST. Cedar Falls, IA 50613",
+      "website": "sidecarcoffeeroasters.com"
+    },
+    {
+      "name": "Capanna Coffee",
+      "state": "Iowa",
+      "address": "710 Pacha Prkwy Ste. 6 North Liberty, IA",
+      "website": "capannacoffee.com"
+    },
+    {
+      "name": "Redband Coffee Company",
+      "state": "Iowa",
+      "address": "110 W 13th St Davenport, IA 52803",
+      "website": "redbandcoffee.com"
+    },
+    {
+      "name": "Redband Coffee",
+      "state": "Iowa",
+      "address": "110 W 13th St, Davenport, IA 52803",
+      "website": "redbandcoffee.com"
+    },
+    {
+      "name": "Mason Mills Coffee",
+      "state": "Iowa",
+      "address": "5921 Flagstone Dr NE Cedar Rapids, IA 52402",
+      "website": "facebook.com/groups/MasonMillsCoffee"
+    },
+    {
+      "name": "PT's Coffee Roasting Co.",
+      "state": "Kansas",
+      "address": "929 SW University Blvd. Suite 2704-D2 Topeka, Kansas 66619",
+      "website": "ptscoffee.com"
+    },
+    {
+      "name": "Nate's Coffee",
+      "state": "Kentucky",
+      "address": "P.O. BOX 23093 LEXINGTON, KY 40523",
+      "website": "natescoffee.com"
+    },
+    {
+      "name": "Magic Beans Coffee Roasters",
+      "state": "Kentucky",
+      "address": "501 W. 6th St. Suite 160,  Lexington, KY",
+      "website": "magicbeanscoffee.com"
+    },
+    {
+      "name": "Argo Sons Coffee",
+      "state": "Kentucky",
+      "address": "3640 S. Hurstbourne Pkwy. #102 Louisville, KY 40299",
+      "website": "argosonscoffee.com"
+    },
+    {
+      "name": "Reve Coffee",
+      "state": "Louisiana",
+      "address": "1321 West Pinhook Road, Lafayette, LA 70503",
+      "website": "revecoffeeroasters.com"
+    },
+    {
+      "name": "Coffee By Design",
+      "state": "Maine",
+      "address": "1 Diamond St. Portland, ME 04101",
+      "website": "coffeebydesign.com"
+    },
+    {
+      "name": "Tandem Coffee Roaster",
+      "state": "Maine",
+      "address": "122 Anderson St. Portland, ME 04101",
+      "website": "tandemcoffee.com"
+    },
+    {
+      "name": "Wicked Joe Coffee",
+      "state": "Maine",
+      "address": "35 Canam Dr. Topsham, ME 04086",
+      "website": "wickedjoe.com"
+    },
+    {
+      "name": "Ceremony Coffee Roasters",
+      "state": "Maryland",
+      "address": "90 Russell St Suite 500 Annapolis, MD 21401",
+      "website": "ceremonycoffee.com"
+    },
+    {
+      "name": "Baltimore Coffee & Tea",
+      "state": "Maryland",
+      "address": "9 W Aylesbury Rd Lutherville-Timonium, MD 21093",
+      "website": "baltcoffee.com"
+    },
+    {
+      "name": "Rise Up Coffee",
+      "state": "Maryland",
+      "address": "618 Dover Rd Easton, MD 21601",
+      "website": "riseupcoffee.com"
+    },
+    {
+      "name": "Southern Skies Coffee Roasters",
+      "state": "Maryland",
+      "address": "4503 Louisville Rd Finksburg, MD 21048",
+      "website": "southernskiescoffee.com"
+    },
+    {
+      "name": "Barrington Coffee Roaster Co.",
+      "state": "Massachusetts",
+      "address": "165 Quarry Hill Road Lee, MA 01238",
+      "website": "barringtoncoffee.com"
+    },
+    {
+      "name": "George Howell Coffee",
+      "state": "Massachusetts",
+      "address": "312 School Street Acton, MA 01720",
+      "website": "georgehowellcoffee.com"
+    },
+    {
+      "name": "Armeno Coffee Roasters",
+      "state": "Massachusetts",
+      "address": "75 Otis Street Northborough, MA 01532",
+      "website": "armeno.com"
+    },
+    {
+      "name": "4A",
+      "state": "Massachusetts",
+      "address": "419 Harvard Street Brookline, MA 02446",
+      "website": "m.4acoffee.com"
+    },
+    {
+      "name": "Barismo",
+      "state": "Massachusetts",
+      "address": "14 Tyler St Somerville",
+      "website": "barismo.com"
+    },
+    {
+      "name": "Dean's Beans",
+      "state": "Massachusetts",
+      "address": "50 RW Moore Dr Orange MA 01364",
+      "website": "deansbeans.com"
+    },
+    {
+      "name": "Grand Rapids Coffee Roasters",
+      "state": "Michigan",
+      "address": "1111 Godfrey Ave SW, Grand Rapids, MI 49503",
+      "website": "grandrapidscoffee.com"
+    },
+    {
+      "name": "Great Lakes Coffee Roasting Company",
+      "state": "Michigan",
+      "address": "389 Enterprise Court Bloomfield Hills, MI 48302",
+      "website": "greatlakescoffee.com"
+    },
+    {
+      "name": "Water Street Coffee Roaster",
+      "state": "Michigan",
+      "address": "610 West Willard Street Kalamazoo, MI 49007",
+      "website": "waterstreetcoffeeroaster.com"
+    },
+    {
+      "name": "Regular Coffee",
+      "state": "Michigan",
+      "address": "632 WEALTHY ST.\tGRAND RAPIDS, MI",
+      "website": "regularcoffee.com"
+    },
+    {
+      "name": "Great Lakes Coffee",
+      "state": "Michigan",
+      "address": "389 Enterprise Ct Bloomfield Hills, MI 48302",
+      "website": "greatlakescoffee.com"
+    },
+    {
+      "name": "Zingerman's Coffee Company",
+      "state": "Michigan",
+      "address": "3723 Plaza Drive, Ann Arbor, MI 48108",
+      "website": "zingermanscoffee.com"
+    },
+    {
+      "name": "Higher Grounds Trading Company",
+      "state": "Michigan",
+      "address": "806 Red Drive, Suite 150, Traverse City, Michigan, 49684",
+      "website": "highergroundstrading.com"
+    },
+    {
+      "name": "Germack Coffee Roasting Co.",
+      "state": "Michigan",
+      "address": "2517 Russell St Detroit, MI 48207",
+      "website": "germackcoffee.com"
+    },
+    {
+      "name": "Leelanau Coffee Roasting Co.",
+      "state": "Michigan",
+      "address": "6443 Western Ave Glen Arbor, MI 49636",
+      "website": "coffeeguys.com"
+    },
+    {
+      "name": "Chazzano Coffee Roasters",
+      "state": "Michigan",
+      "address": "1737 E Nine Mile Rd, Ferndale, MI 48220",
+      "website": "chazzanocoffee.com"
+    },
+    {
+      "name": "Ugly Mug",
+      "state": "Michigan",
+      "address": "317 W. Cross St., Ypsilanti, MI 48197",
+      "website": "uglymugypsi.com"
+    },
+    {
+      "name": "Infusco coffee",
+      "state": "Michigan",
+      "address": "",
+      "website": ""
+    },
+    {
+      "name": "Rowster",
+      "state": "Michigan",
+      "address": "632 Wealthy Street SE, Grand Rapids, MI 49503",
+      "website": "rowstercoffee.com"
+    },
+    {
+      "name": "Dead River Coffee",
+      "state": "Michigan",
+      "address": "119 W Baraga Ave Marquette, MI 49855",
+      "website": "deadrivercoffee.com"
+    },
+    {
+      "name": "Keweenaw Coffee Works",
+      "state": "Michigan",
+      "address": "326 5th St Calumet, MI 49913",
+      "website": "keweenawcoffeeworks.com"
+    },
+    {
+      "name": "The Bearded Apple",
+      "state": "Michigan",
+      "address": "419 Washington Ave\nIron River, MI 49935",
+      "website": "thebeardedapple.com"
+    },
+    {
+      "name": "UP North Roast",
+      "state": "Michigan",
+      "address": "8719 N.75 Ln\nGladstone, MI 49837",
+      "website": "upnorthroast.com"
+    },
+    {
+      "name": "Good Life Coffee Company",
+      "state": "Michigan",
+      "address": "517 Woodward Ave\nKingsford, MI 49802",
+      "website": "goodlifecoffeeco.com"
+    },
+    {
+      "name": "Superior Coffee Roasting Company",
+      "state": "Michigan",
+      "address": "2611 Ashmun St.\nSault Ste. Marie, MI 49783",
+      "website": "superiorcoffeeroasting.com"
+    },
+    {
+      "name": "Great Lakes Coffee Company",
+      "state": "Michigan",
+      "address": "104 East Munising Avenue\nMunising, MI 49862",
+      "website": "greatlakescoffeecompany.com"
+    },
+    {
+      "name": "Dancing Crane Farm",
+      "state": "Michigan",
+      "address": "348 Lawson Rd\nSkandia, Michigan 49885",
+      "website": "facebook.com/DancingCraneFarm"
+    },
+    {
+      "name": "Dogwood Coffee",
+      "state": "Minnesota",
+      "address": "3001 Hennepin Ave, Minneapolis, MN 55408",
+      "website": "dogwoodcoffee.com"
+    },
+    {
+      "name": "Up Coffee Roasters",
+      "state": "Minnesota",
+      "address": "1901 Traffic St. NE Minneapolis",
+      "website": "upcoffeeroasters.com"
+    },
+    {
+      "name": "Coast Roast",
+      "state": "Mississippi",
+      "address": "126 Jeff Davis Ave, Long Beach, MS‎",
+      "website": "thecoastroast.com"
+    },
+    {
+      "name": "Sump Coffee",
+      "state": "Missouri",
+      "address": "3700 S Jefferson Ave.",
+      "website": "sumpcoffee.com"
+    },
+    {
+      "name": "Brick & Mortar Coffee",
+      "state": "Missouri",
+      "address": "1666 E Saint Louis St. Springfield, MO 65802",
+      "website": "brickandmortarcoffee.com"
+    },
+    {
+      "name": "The Roasterie",
+      "state": "Missouri",
+      "address": "1204 W 27th St, Kansas City, MO 64108",
+      "website": "theroasterie.com"
+    },
+    {
+      "name": "Oddly Correct",
+      "state": "Missouri",
+      "address": "3940 Main St, Kansas City, MO 64111",
+      "website": "oddlycorrect.com"
+    },
+    {
+      "name": "ArtHouse",
+      "state": "Missouri",
+      "address": "2808 Sutton Blvd.\nMaplewood, MO 63144",
+      "website": "Arthousecoffees.com"
+    },
+    {
+      "name": "The Coffee Ethic",
+      "state": "Missouri",
+      "address": "124 Park Central Square Springfield, MO 65806",
+      "website": "thecoffeeethic.com"
+    },
+    {
+      "name": "Big Creek Coffee",
+      "state": "Montana",
+      "address": "Big Creek Coffee Roasters\n301 W. Main\nHamilton, MT 59840",
+      "website": "bigcreekcoffeeroasters.com/default.htm"
+    },
+    {
+      "name": "Beansmith Coffee Roasters",
+      "state": "Nebraska",
+      "address": "12012 Roberts Rd\nLa Vista, NE 68128",
+      "website": "beansmith.com"
+    },
+    {
+      "name": "Cultiva",
+      "state": "Nebraska",
+      "address": "727 S 11th St. \nLincoln, NE 68508",
+      "website": "cultivacoffee.com"
+    },
+    {
+      "name": "The Hub Coffee Roasters",
+      "state": "Nevada",
+      "address": "350 Evans Ave,\nReno, NV\n89501",
+      "website": "hubcoffeeroasters.com"
+    },
+    {
+      "name": "CQ Coffee Roasters",
+      "state": "New Hampshire",
+      "address": "30 Harvey Rd.\nBedford, NH 03110",
+      "website": "cqcoffeeroasters.com"
+    },
+    {
+      "name": "Coffee Coffee",
+      "state": "New Hampshire",
+      "address": "326 S Broadway, Salem, New Hampshire 03079",
+      "website": "coffeeroastersnh.com"
+    },
+    {
+      "name": "Mod Cup",
+      "state": "New Jersey",
+      "address": "479 Palisade Ave.\nJersey City Heights, NJ",
+      "website": "modcup.com"
+    },
+    {
+      "name": "Rojo's Roastery",
+      "state": "New Jersey",
+      "address": "Lambertville Cafe and Roastery\n243 North Union Street\nLambertville, NJ 08530",
+      "website": "rojosroastery.com"
+    },
+    {
+      "name": "Modcup",
+      "state": "New Jersey",
+      "address": "479 Palisade Avenue\nJersey City Heights, NJ",
+      "website": "Modcup.com"
+    },
+    {
+      "name": "Booskerdoo",
+      "state": "New Jersey",
+      "address": "36 Beach Road #9\nMonmouth Beach, NJ 07750",
+      "website": "booskerdoo.com"
+    },
+    {
+      "name": "Picacho",
+      "state": "New Mexico",
+      "address": "Las Cruces",
+      "website": "Picachocoffee.com"
+    },
+    {
+      "name": "Caveman Coffee",
+      "state": "New Mexico",
+      "address": "",
+      "website": "cavemancoffeeco.com/about"
+    },
+    {
+      "name": "Georgio's Coffee Roasters",
+      "state": "New York",
+      "address": "1965 New Hwy\nFarmingdale, NY 11735",
+      "website": ""
+    },
+    {
+      "name": "Gentle Brew Coffee",
+      "state": "New York",
+      "address": "151 E Park Ave\nLong Beach, NY 11561",
+      "website": "gentlebrewcoffee.com"
+    },
+    {
+      "name": "Recess Coffe",
+      "state": "New York",
+      "address": "110 Harvard Place\nSyracuse, NY 13210",
+      "website": "recesscoffee.com"
+    },
+    {
+      "name": "Wired Coffee Roasters",
+      "state": "New York",
+      "address": "1104 Ellsworth Blvd. Malta, NY",
+      "website": "wiredcoffeeandbagel.com"
+    },
+    {
+      "name": "Oslo",
+      "state": "New York",
+      "address": "Brooklyn",
+      "website": "Oslocoffee.com"
+    },
+    {
+      "name": "Premium Coffee Roasters Inc.",
+      "state": "New York",
+      "address": "2510 Hamburg Turnpike, Lackawanna, NY 14218",
+      "website": "premium-coffee-roasters.myshopify.com"
+    },
+    {
+      "name": "Joe Bean Coffee Roasters",
+      "state": "New York",
+      "address": "1344 University Avenue\nRochester NY 14607",
+      "website": "joebeanroasters.com"
+    },
+    {
+      "name": "St. Lawrence Valley Roasters",
+      "state": "New York",
+      "address": "11 Maple St. Potsdam, NY 13676",
+      "website": "jernabi.com"
+    },
+    {
+      "name": "Gimme Coffee",
+      "state": "New York",
+      "address": "506 West State Street\nIthaca, New York 14850",
+      "website": "gimmecoffee.com"
+    },
+    {
+      "name": "Fuego Coffee Roasters",
+      "state": "New York",
+      "address": "167 Liberty Pole Way, Rochester, NY 14604",
+      "website": "fuegocoffee.com"
+    },
+    {
+      "name": "Porto Rico Importing Co.",
+      "state": "New York",
+      "address": "201 BLEECKER ST. \nNEW YORK, N.Y. 10012",
+      "website": "portorico.com"
+    },
+    {
+      "name": "Finger Lakes Coffee Roasters",
+      "state": "New York",
+      "address": "7330 Route 251\nVictor, NY  14564",
+      "website": "fingerlakescoffee.com"
+    },
+    {
+      "name": "Cafe Grumpy",
+      "state": "New York",
+      "address": "Multiple Locations",
+      "website": "cafegrumpy.com"
+    },
+    {
+      "name": "Joe",
+      "state": "New York",
+      "address": "Multiple Locations",
+      "website": "joenewyork.com"
+    },
+    {
+      "name": "Mountain Air Roasting",
+      "state": "North Carolina",
+      "address": "",
+      "website": "mtnairroasting.com"
+    },
+    {
+      "name": "Counter Culture Coffee",
+      "state": "North Carolina",
+      "address": "4911 South Alston Avenue\nDurham, NC 27713",
+      "website": "counterculturecoffee.com"
+    },
+    {
+      "name": "Bald Guy Brew",
+      "state": "North Carolina",
+      "address": "585 West King Street\nBoone, NC",
+      "website": "baldguybrew.com/home-1.html"
+    },
+    {
+      "name": "Bent Tree Coffee Roasters",
+      "state": "Ohio",
+      "address": "313 N Water St, Kent, OH 44240",
+      "website": "benttreecoffee.com"
+    },
+    {
+      "name": "Friends Roastery",
+      "state": "Ohio",
+      "address": "474 East State Street, Salem, Ohio 44460",
+      "website": "friendsroastery.com"
+    },
+    {
+      "name": "Rising Star Coffee Roasters",
+      "state": "Ohio",
+      "address": "1455 West 29th Street\nCleveland, OH, 44113",
+      "website": "risingstarcoffee.com"
+    },
+    {
+      "name": "Phoenix Coffee Company",
+      "state": "Ohio",
+      "address": "1728 St. Clair Avenue \nCleveland, OH 44114",
+      "website": "phoenixcoffee.com"
+    },
+    {
+      "name": "Backroom Coffee Roasters",
+      "state": "Ohio",
+      "address": "1442 W. Lane Ave.\nColumbus, OH 43221",
+      "website": "backroomcoffeeroasters.com"
+    },
+    {
+      "name": "Stauf's Coffee Roasters",
+      "state": "Ohio",
+      "address": "1277 Grandview Ave.\nColumbus, OH 43212",
+      "website": "staufs.com/default.aspx"
+    },
+    {
+      "name": "Stoney Creek Roasters",
+      "state": "Ohio",
+      "address": "85 N Main St\nCedarville, OH 45314",
+      "website": "stoneycreekroasters.com"
+    },
+    {
+      "name": "Rising Star Roasters",
+      "state": "Ohio",
+      "address": "Multiple locations\nCleveland, OH",
+      "website": "risingstarcoffee.com"
+    },
+    {
+      "name": "Muggswigz",
+      "state": "Ohio",
+      "address": "137 Walnut Ave NE, Canton, OH 44702",
+      "website": "muggswigz.com"
+    },
+    {
+      "name": "DoubleShot Coffee Co",
+      "state": "Oklahoma",
+      "address": "1730 S Boston Ave, Tulsa, OK 74119",
+      "website": "doubleshotcoffee.com"
+    },
+    {
+      "name": "KAF Roasters",
+      "state": "Oklahoma",
+      "address": "309 N Redbud Ave, Broken Arrow, OK 74012",
+      "website": "kafroasters.com"
+    },
+    {
+      "name": "Topeca Coffee",
+      "state": "Oklahoma",
+      "address": "115 W 5th St #169, Tulsa, OK 74103",
+      "website": "topecacoffee.com"
+    },
+    {
+      "name": "Nordaggio's Coffee",
+      "state": "Oklahoma",
+      "address": "8156 S Lewis Ave, Tulsa, OK 74137",
+      "website": "nordaggios.com"
+    },
+    {
+      "name": "Coffee Slingers",
+      "state": "Oklahoma",
+      "address": "1015 N. Broadway  Oklahoma City, OK 73102",
+      "website": "coffeeslingers.com"
+    },
+    {
+      "name": "Elemental Coffee",
+      "state": "Oklahoma",
+      "address": "815 North Hudson Ave\nOklahoma City, OK 73102",
+      "website": "elementalcoffeeroasters.com/default.aspx"
+    },
+    {
+      "name": "Mariposa",
+      "state": "Oklahoma",
+      "address": "1120 Garver St, Norman, OK 73069",
+      "website": "mariposacoffeeroastery.com"
+    },
+    {
+      "name": "Water Avenue",
+      "state": "Oregon",
+      "address": "1028 SE Water Ave # 145, Portland, OR 97214",
+      "website": "wateravenuecoffee.com"
+    },
+    {
+      "name": "Tailored Coffee Roasters",
+      "state": "Oregon",
+      "address": "291 E 5th Ave. Eugene, OR 97401",
+      "website": "tailoredcoffee.com"
+    },
+    {
+      "name": "Spella",
+      "state": "Oregon",
+      "address": "",
+      "website": ""
+    },
+    {
+      "name": "Courier",
+      "state": "Oregon",
+      "address": "923 sw oak",
+      "website": "couriercoffeeroasters.com/wordpress"
+    },
+    {
+      "name": "Anchor Grounds",
+      "state": "Oregon",
+      "address": "9923 SE Talbert St.\nClackamas, OR 97015",
+      "website": "anchorgrounds.com"
+    },
+    {
+      "name": "Commonplace Coffee",
+      "state": "Pennsylvania",
+      "address": "1176 Grant St.\nIndiana, PA 15701",
+      "website": "thecommonplacecoffeehouse.com"
+    },
+    {
+      "name": "Happy Mug Coffee",
+      "state": "Pennsylvania",
+      "address": "12511 Edinboro Rd\nEdinboro, PA 16412",
+      "website": "happymugcoffee.com"
+    },
+    {
+      "name": "Dave's Coffee",
+      "state": "Rhode Island",
+      "address": "5193 Old Post Rd\nCharlestown, RI 02813",
+      "website": "davescoffeestore.com"
+    },
+    {
+      "name": "Gryphon Coffee Company",
+      "state": "Pennsylvania",
+      "address": "105 West Lancaster Ave\nWayne, PA 19087",
+      "website": "gryphoncoffee.com"
+    },
+    {
+      "name": "Little Amps",
+      "state": "Pennsylvania",
+      "address": "133 State Street\nHarrisburg, PA 17101",
+      "website": "littleampscoffee.com"
+    },
+    {
+      "name": "Commonplace Coffee Co.",
+      "state": "Pennsylvania",
+      "address": "147 Julius St.\nPittsburgh, PA 15206",
+      "website": "thecommonplacecoffeehouse.com"
+    },
+    {
+      "name": "ReAnimator",
+      "state": "Pennsylvania",
+      "address": "1523 E Susquehanna Ave\nPhiladelphia, PA 19125",
+      "website": "reanimatorcoffee.com"
+    },
+    {
+      "name": "West End Coffee Company",
+      "state": "South Carolina",
+      "address": "18 S Markley St, Greenville, SC 29601",
+      "website": "westendcoffee.com"
+    },
+    {
+      "name": "Due South Coffee Roasters",
+      "state": "South Carolina",
+      "address": "250 Mill St\nTaylors, SC 29687",
+      "website": "facebook.com/duesouthcoffee"
+    },
+    {
+      "name": "Reverb Coffee Roasters",
+      "state": "Tennessee",
+      "address": "Private address.  Available for purchase at Cash Saver on Madison Ave",
+      "website": "myreverbcoffee.com"
+    },
+    {
+      "name": "Higher Ground Coffee",
+      "state": "Tennessee",
+      "address": "302 West Reelfoot Ave. Union City, Tn 38261",
+      "website": "highergroundcoffee.com"
+    },
+    {
+      "name": "Drew's Brews",
+      "state": "Tennessee",
+      "address": "7 Ligon Ave\nNashville, TN 37207",
+      "website": "drewsbrewscoffee.com"
+    },
+    {
+      "name": "Bongo Java Roasting Company",
+      "state": "Tennessee",
+      "address": "107 S 11th St, Nashville, TN 37206",
+      "website": "bongojava.com/bongo-java-roasting"
+    },
+    {
+      "name": "Eighth and Roast",
+      "state": "Tennessee",
+      "address": "2108A 8th Ave S Nashville, TN 37204",
+      "website": "eighthandroast.com"
+    },
+    {
+      "name": "Crema Coffee",
+      "state": "Tennessee",
+      "address": "15 Hermitage Ave.\nNashville, TN 37204",
+      "website": "crema-coffee.com"
+    },
+    {
+      "name": "Bonlife Coffee",
+      "state": "Tennessee",
+      "address": "241 Inman St E, Cleveland, TN 37311",
+      "website": "bonlifecoffee.com"
+    },
+    {
+      "name": "Hibbert-Davis",
+      "state": "Tennessee",
+      "address": "240 E Main St. Kingsport",
+      "website": "facebook.com/HibbertDavisCoffeeCo"
+    },
+    {
+      "name": "Crema",
+      "state": "Tennessee",
+      "address": "15 Hermitage Ave, Nashville, TN 37204",
+      "website": "crema-coffee.com"
+    },
+    {
+      "name": "Just Love",
+      "state": "Tennessee",
+      "address": "129 MTCS Rd\n Murfreesboro, TN 37129",
+      "website": "justlovecoffee.com"
+    },
+    {
+      "name": "Just Love Coffee Roasters",
+      "state": "Tennessee",
+      "address": "129 MTCS Drive\nMurfreesboro, TN 37129",
+      "website": "justlovecoffee.com"
+    },
+    {
+      "name": "Velo Coffee Roasters",
+      "state": "Tennessee",
+      "address": "509 East Main Street\nChattanooga, TN 37408",
+      "website": "velocoffee.com"
+    },
+    {
+      "name": "Flat Track Coffee",
+      "state": "Texas",
+      "address": "E 913 Cesar Chavez St",
+      "website": "flattrackcoffee.com"
+    },
+    {
+      "name": "Bldg 6 Coffee Roasters",
+      "state": "Texas",
+      "address": "11385 James Watt\nSte B-6\nEl Paso, TX 79936",
+      "website": "bldg6coffee.com"
+    },
+    {
+      "name": "Cultivar Coffee",
+      "state": "Texas",
+      "address": "1146 Peavy Road, Dallas, TX 75218",
+      "website": "cultivarcoffee.com"
+    },
+    {
+      "name": "Ascension Coffee",
+      "state": "Texas",
+      "address": "1621 Oak Lawn Ave, Dallas, TX 75207",
+      "website": "ascensiondallas.com"
+    },
+    {
+      "name": "Avoca Coffee",
+      "state": "Texas",
+      "address": "1311 W Magnolia Ave, Fort Worth, TX 76104",
+      "website": "avocacoffee.com"
+    },
+    {
+      "name": "Roots Coffee House",
+      "state": "Texas",
+      "address": "9101 Boulevard 26 #101\nNorth Richland Hills, TX 76180",
+      "website": "rootscoffeehouse.com"
+    },
+    {
+      "name": "Addison Coffee Roasters",
+      "state": "Texas",
+      "address": "15012 Beltway Drive\nAddison, TX 75001",
+      "website": "addisoncoffee.com"
+    },
+    {
+      "name": "Oak Cliff Roasters",
+      "state": "Texas",
+      "address": "819 W Davis St, Dallas, TX 75208",
+      "website": "oakcliffcoffee.com"
+    },
+    {
+      "name": "Drip Coffee Co.",
+      "state": "Texas",
+      "address": "4343 Lovers Ln, Dallas, TX 75225",
+      "website": "dripcoffeeco.com"
+    },
+    {
+      "name": "Java Pura",
+      "state": "Texas",
+      "address": "5250 Gulfton St. #4G \nHouston, TX 77081",
+      "website": "javapura.com/index.php"
+    },
+    {
+      "name": "Texas Coffee Traders",
+      "state": "Texas",
+      "address": "1400 East 4th  Austin, Texas  78702",
+      "website": "texascoffeetraders.com/home.html"
+    },
+    {
+      "name": "Cuvee Coffee",
+      "state": "Texas",
+      "address": "2000 E. 6th, Austin, TX 78702",
+      "website": "cuveecoffee.com"
+    },
+    {
+      "name": "Austin Roasting Company",
+      "state": "Texas",
+      "address": "720 US Highway 183 South\nSuite #301\nAustin, TX 78741",
+      "website": "austinroastingcompany.com"
+    },
+    {
+      "name": "Flat Track Coffee Roasters",
+      "state": "Texas",
+      "address": "913 E Cesar Chavez st., Austin, TX 78702",
+      "website": "flattrackcoffee.com"
+    },
+    {
+      "name": "Progress Coffee Roasting",
+      "state": "Texas",
+      "address": "3421 North IH35, Austin, TX 78722",
+      "website": "progresscoffeeroasting.com"
+    },
+    {
+      "name": "Anderson's Coffee",
+      "state": "Texas",
+      "address": "1601 WEST 38TH STREET #2, AUSTIN, TX 78731",
+      "website": "andersonscoffee.com"
+    },
+    {
+      "name": "Independence Coffee Company",
+      "state": "Texas",
+      "address": "P.O. Box 28, Brenham, Texas  77834",
+      "website": "independencecoffee.com"
+    },
+    {
+      "name": "Roaster's Coffee Cafe",
+      "state": "Texas",
+      "address": "2011 Little Elm Trail #110, Cedar Park, TX 78613",
+      "website": "roasterscoffeecafe.com"
+    },
+    {
+      "name": "Barrett's Coffee",
+      "state": "Texas",
+      "address": "(No storefront)",
+      "website": "barrettscoffee.com"
+    },
+    {
+      "name": "Austin Java",
+      "state": "Texas",
+      "address": "1710 Evergreen Ave. Austin, TX 78704",
+      "website": "austinjavacoffee.com"
+    },
+    {
+      "name": "Fara Coffee",
+      "state": "Texas",
+      "address": "3724 Jefferson Street, Suite 160\nAustin, TX 78731",
+      "website": "faracafe.com"
+    },
+    {
+      "name": "Summer Moon Wood-Fired Coffee",
+      "state": "Texas",
+      "address": "3115 1ST ST S, SUITE 1B, AUSTIN, TX 78704",
+      "website": "woodfiredcoffee.com"
+    },
+    {
+      "name": "Mozart's Coffee Roasters",
+      "state": "Texas",
+      "address": "3825 Lake Austin Blvd\nAustin, TX 78703",
+      "website": "mozartscoffee.com"
+    },
+    {
+      "name": "Ruta Maya",
+      "state": "Texas",
+      "address": "(No store front)",
+      "website": "rutamaya.net"
+    },
+    {
+      "name": "Third Coast Coffee Roasting Company",
+      "state": "Texas",
+      "address": "4402 S Congress Ave\nAustin, TX 78745",
+      "website": "thirdcoastcoffee.com"
+    },
+    {
+      "name": "Houndstooth Coffee",
+      "state": "Texas",
+      "address": "4200 N Lamar\nSte 120\nAustin, TX 78756",
+      "website": "houndstoothcoffee.com"
+    },
+    {
+      "name": "Fair Bean Coffee",
+      "state": "Texas",
+      "address": "2210 S 1st St\nSte I\nAustin, TX 78704",
+      "website": "fairbeancoffee.com/Welcome.html"
+    },
+    {
+      "name": "oak cliff coffee roasters",
+      "state": "Texas",
+      "address": "819 W Davis St\nDallas, TX 75208",
+      "website": "oakcliffcoffee.com"
+    },
+    {
+      "name": "Avoca Roastery & Espresso Lounge",
+      "state": "Texas",
+      "address": "1311 W. Magnolia Ave\nFort Worth, TX 76104",
+      "website": "avocacoffee.com"
+    },
+    {
+      "name": "CedarWood Roasting Co.",
+      "state": "Texas",
+      "address": "5224 S State Hwy 360\nSte 240\nGrand Prairie, TX 75052",
+      "website": "cedarwoodroasting.com"
+    },
+    {
+      "name": "Bookish Coffee",
+      "state": "Texas",
+      "address": "Denton",
+      "website": "dentonbookishcoffee-gmail-com.myshopify.com"
+    },
+    {
+      "name": "Novel Coffee",
+      "state": "Texas",
+      "address": "Dallas",
+      "website": "novelcoffeeroasters.com"
+    },
+    {
+      "name": "Seven mile Coffee",
+      "state": "Texas",
+      "address": "Denton",
+      "website": "sevenmilecafe.com/coffee"
+    },
+    {
+      "name": "Buon Giorno",
+      "state": "Texas",
+      "address": "Grapevine",
+      "website": "buongiornocoffee.myshopify.com"
+    },
+    {
+      "name": "Java Coffee & Tea Co.",
+      "state": "Texas",
+      "address": "2727 Fondren Rd. Houston, TX 77063",
+      "website": "javacoffee.com"
+    },
+    {
+      "name": "Baldy's/The Yellow Hat",
+      "state": "Texas",
+      "address": "5401 N 10th St #102, McAllen, TX 78504",
+      "website": "moonbeansmcallen.com"
+    },
+    {
+      "name": "Greenway Coffee Company",
+      "state": "Texas",
+      "address": "5 E Greenway Plaza, Houston, TX 77046",
+      "website": "greenwaycoffee.com"
+    },
+    {
+      "name": "Brown Coffee Co",
+      "state": "Texas",
+      "address": "1702 W Kings Hwy San Antonio, Tx 78201",
+      "website": "browncoffeeco.com"
+    },
+    {
+      "name": "2Ten Coffee Roasters",
+      "state": "Texas",
+      "address": "643 N. Resler",
+      "website": "2tencoffeeroasters.com/#we-are-2ten"
+    },
+    {
+      "name": "Seham's Coffee Roasters",
+      "state": "Texas",
+      "address": "3007 Montana Ave., El Paso, TX",
+      "website": "blendcoffeeroasters.com"
+    },
+    {
+      "name": "Coyote Moon Coffee",
+      "state": "Texas",
+      "address": "Georgetown, TX",
+      "website": "coyotemooncoffee.com"
+    },
+    {
+      "name": "Caffe Ibis",
+      "state": "Utah",
+      "address": "52 Federal Ave. Logan, UT 84321",
+      "website": "caffeibis.com"
+    },
+    {
+      "name": "Brave Coffee and Tea",
+      "state": "Vermont",
+      "address": "6580 Waterbury Stowe Rd Waterbury Center, VT 05677",
+      "website": "bravecoffeeco.com"
+    },
+    {
+      "name": "Lamplighter",
+      "state": "Virginia",
+      "address": "1719 SUMMIT AVENUE, RICHMOND, VA 23230",
+      "website": "lamplightercoffee.com"
+    },
+    {
+      "name": "Caffe Amouri",
+      "state": "Virginia",
+      "address": "107 Church St, Vienna, Va",
+      "website": "caffeamouri.com"
+    },
+    {
+      "name": "Beanetics",
+      "state": "Virginia",
+      "address": "7028 Columbia Pike Annandale, VA 22003",
+      "website": "beanetics.com"
+    },
+    {
+      "name": "Cervantes Coffee Roasters",
+      "state": "Virginia",
+      "address": "7644 Fullerton Rd. Unit 1 Springfield, VA 22153",
+      "website": "cervantescoffee.com"
+    },
+    {
+      "name": "M.E. Swing Coffee Roasters",
+      "state": "Virginia",
+      "address": "501 East Monroe Ave Alexandria, VA 22301",
+      "website": "swingscoffee.com"
+    },
+    {
+      "name": "Red Rooster Coffee Roaster",
+      "state": "Virginia",
+      "address": "117 S Locust St Floyd, VA 24091",
+      "website": "redroostercoffeeroaster.com"
+    },
+    {
+      "name": "LoCo Beans",
+      "state": "Virginia",
+      "address": "201 Harrison St Leesburg, VA 20175",
+      "website": "locobeanscoffee.com"
+    },
+    {
+      "name": "Shenandoah Joe Coffee",
+      "state": "Virginia",
+      "address": "945 Preston Ave. Charlottesville, VA",
+      "website": "shenandoahjoe.com"
+    },
+    {
+      "name": "Rostov's",
+      "state": "Virginia",
+      "address": "1618 W Main St Richmond, VA 23220",
+      "website": "rostovs.com"
+    },
+    {
+      "name": "Williamsburg Coffee & Tea",
+      "state": "Virginia",
+      "address": "1592 Penniman Rd, Williamsburg, VA 23185",
+      "website": "wcoffee.com"
+    },
+    {
+      "name": "Mudhouse",
+      "state": "Virginia",
+      "address": "213 W. Main St. Charlottesville, VA 22902",
+      "website": "mudhouse.com"
+    },
+    {
+      "name": "Mill Mountain Coffee and Tea",
+      "state": "Virginia",
+      "address": "17 E. Main Street , Salem, Virginia",
+      "website": "millmountaincoffee.com"
+    },
+    {
+      "name": "Slate Coffee Roasters",
+      "state": "Washington",
+      "address": "5413 6th Ave NW Seattle, WA 98107",
+      "website": "slatecoffee.com"
+    },
+    {
+      "name": "Herkimer Coffee",
+      "state": "Washington",
+      "address": "7320 Greenwood Ave N Seattle, Washington 98103",
+      "website": "herkimercoffee.com"
+    },
+    {
+      "name": "Caffè Appassionato",
+      "state": "Washington",
+      "address": "4001 21st Ave. W Seattle, WA 98199",
+      "website": "caffeappassionato.com"
+    },
+    {
+      "name": "Velton's Coffee",
+      "state": "Washington",
+      "address": "",
+      "website": "veltonscoffee.com"
+    },
+    {
+      "name": "Caffe Vita",
+      "state": "Washington",
+      "address": "1005 E Pike St",
+      "website": "caffevita.com"
+    },
+    {
+      "name": "Cravens Coffee",
+      "state": "Washington",
+      "address": "",
+      "website": "cravenscoffee.com"
+    },
+    {
+      "name": "Caffe Ladro",
+      "state": "Washington",
+      "address": "1220 W Nickerson St Seattle, WA 98119",
+      "website": "caffeladro.com"
+    },
+    {
+      "name": "Madrona Coffee",
+      "state": "Washington",
+      "address": "2361 Fawcett Ave Tacoma 98402",
+      "website": "madrona.coffee"
+    },
+    {
+      "name": "Caffe Ladro Coffee Roaster",
+      "state": "Washington",
+      "address": "501 2nd Ave W, Ste 200 Seattle, WA 98119",
+      "website": "caffeladro.com"
+    },
+    {
+      "name": "Indaba Coffee Roasters",
+      "state": "Washington",
+      "address": "1425 West Broadway Ave 99201 Spokane Wa",
+      "website": "indabacoffee.com"
+    },
+    {
+      "name": "Colectivo",
+      "state": "Wisconsin",
+      "address": "2999 N Humboldt Blvd Milwaukee, WI 53212",
+      "website": "colectivocoffee.com"
+    },
+    {
+      "name": "Kickapoo Coffee",
+      "state": "Wisconsin",
+      "address": "1201 N Main St, Viroqua, WI 54665",
+      "website": "kickapoocoffee.com"
+    },
+    {
+      "name": "Ruby Roasters",
+      "state": "Wisconsin",
+      "address": "10263 County Road Z Amherst Junction, WI 54407",
+      "website": "rubycoffeeroasters.com"
+    },
+    {
+      "name": "Johnson Brothers Coffee Roasters",
+      "state": "Wisconsin",
+      "address": "5821 Femrite Drive, Madison, WI 5371",
+      "website": "jbccoffeeroasters.com"
+    },
+    {
+      "name": "Fiddleheads",
+      "state": "Wisconsin",
+      "address": "120 North Main Street Thiensville WI 53092",
+      "website": "fiddleheadscoffee.com"
+    },
+    {
+      "name": "True",
+      "state": "Wisconsin",
+      "address": "6250 Nesbitt Rd. Madison, WI 53719",
+      "website": "Truecoffeeroasters.com"
+    },
+    {
+      "name": "Anodyne",
+      "state": "Wisconsin",
+      "address": "2920 S Kinnickinnic Ave, Milwaukee, WI 53207",
+      "website": "Anodynecoffee.com"
+    },
+    {
+      "name": "Stone Creek Coffee",
+      "state": "Wisconsin",
+      "address": "422 N. 5th Street, Milwaukee, WI 53203",
+      "website": "stonecreekcoffee.com"
+    },
+    {
+      "name": "Anodyne Coffee Roasting Company",
+      "state": "Wisconsin",
+      "address": "224 W. Bruce Street, Milwaukee, WI 53204",
+      "website": "anodynecoffee.com"
+    },
+    {
+      "name": "Brown Sugar Coffee Roastery",
+      "state": "Wyoming",
+      "address": "303 East Main Street Riverton WY, 82501",
+      "website": "brownsugarcoffeeroastery.com"
+    },
+    {
+      "name": "H&S Coffee Roasters",
+      "state": "Wyoming",
+      "address": "210 S 3rd St Ste 200 Laramie WY 82070",
+      "website": "hscoffeeroasters.com"
+    }
+  ]
+}
