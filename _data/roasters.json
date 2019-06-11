@@ -1721,6 +1721,24 @@
       "state": "Vermont",
       "address": "266 Pine Street, Suite 116 Burlington, VT 05401",
       "website": "briocoffeeworks.com"
+    },
+    {
+      "name": "Cafeciteaux",
+      "state": "Louisiana",
+      "address": "14141 Airline Hwy Bld 4 Ste U Baton Rouge, LA 70817",
+      "website": "cafeciteaux.com"
+    },
+    {
+      "name": "French Truck Coffee",
+      "state": "Louisiana",
+      "address": "2978 Government St Baton Rouge, LA 70806",
+      "website": "frenchtruckcoffee.com"
+    },
+    {
+      "name": "French Truck Coffee",
+      "state": "Louisiana",
+      "address": "2978 Government St Baton Rouge, LA 70806",
+      "website": "frenchtruckcoffee.com"
     }
   ]
 }
