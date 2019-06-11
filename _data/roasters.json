@@ -1735,10 +1735,22 @@
       "website": "frenchtruckcoffee.com"
     },
     {
-      "name": "French Truck Coffee",
-      "state": "Louisiana",
-      "address": "2978 Government St Baton Rouge, LA 70806",
-      "website": "frenchtruckcoffee.com"
+      "name": "Black and Brass Coffee Roasters",
+      "state": "Pennsylvania",
+      "address": "520 Main St Honesdale, PA 18431",
+      "website": "blackandbrasscoffee.com"
+    },
+    {
+      "name": "Electric City Roasting Co.",
+      "state": "Pennsylvania",
+      "address": "1201 Marshwood Road, Suite A Throop, PA 18411",
+      "website": "electriccityroasting.com"
+    },
+    {
+      "name": "Backyard Beans Coffee Company",
+      "state": "Pennsylvania",
+      "address": "408 West Main Street, Lansdale, PA, 19446",
+      "website": "backyardbeans.com"
     }
   ]
 }
