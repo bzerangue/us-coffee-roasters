@@ -1709,6 +1709,12 @@
       "state": "New York",
       "address": "28-01 24th Ave, Astoria, NY 11102",
       "website": "mightyoakroasters.com"
+    },
+    {
+      "name": "Eiland Coffee Roasters",
+      "state": "Texas",
+      "address": "532 North Interurban Street Richardson, TX, 75081",
+      "website": "eilandcoffee.com"
     }
   ]
 }
