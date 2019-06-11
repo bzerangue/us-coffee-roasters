@@ -1715,6 +1715,12 @@
       "state": "Texas",
       "address": "532 North Interurban Street Richardson, TX, 75081",
       "website": "eilandcoffee.com"
+    },
+    {
+      "name": "Brio Coffeeworks",
+      "state": "Vermont",
+      "address": "266 Pine Street, Suite 116 Burlington, VT 05401",
+      "website": "briocoffeeworks.com"
     }
   ]
 }
