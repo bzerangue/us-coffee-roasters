@@ -51,6 +51,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "zachlebar",
+      "name": "Zach LeBar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/823167?v=4",
+      "profile": "https://rovingthoughts.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bwlng",
+      "name": "Stephen Bowling",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/199782?v=4",
+      "profile": "https://stephenbowling.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
