@@ -1757,6 +1757,18 @@
       "state": "Texas",
       "address": "2001 S Presa St, San Antonio, TX 78210",
       "website": "meritcoffee.com"
+    },
+    {
+      "name": "Foster Coffee Company",
+      "state": "Michigan",
+      "address": "115 S Washington Street Owosso, MI 48867",
+      "website": "fostercoffee.co"
+    },
+    {
+      "name": "Madcap Coffee Company",
+      "state": "Michigan",
+      "address": "98 Monroe Ctr NW, Grand Rapids, MI 49503",
+      "website": "madcapcoffee.com"
     }
   ]
 }
