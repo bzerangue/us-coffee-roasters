@@ -1697,12 +1697,18 @@
       "state": "Michigan",
       "address": "98 Monroe Ctr NW, Grand Rapids, MI 49503",
       "website": "madcapcoffee.com"
-    }, 
+    },
     {
       "name": "Mountain City Coffee Roasters",
       "state": "North Carolina",
       "address": "191 Charlotte St Suite 101, Asheville, NC 28801",
       "website": "mountaincity.com"
+    },
+    {
+      "name": "RBT Coffee Co.",
+      "state": "Mississippi",
+      "address": "",
+      "website": "rbtcoffee.com"
     }
   ]
 }
