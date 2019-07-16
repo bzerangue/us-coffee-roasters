@@ -1709,6 +1709,12 @@
       "state": "Mississippi",
       "address": "",
       "website": "rbtcoffee.com"
+    },
+    {
+      "name": "Compass Coffee Roasting",
+      "state": "Washington",
+      "address": "8013 St Johns Rd Suite P Vancouver, WA 98665",
+      "website": "compasscoffeeroasting.com"
     }
   ]
 }
