@@ -1721,6 +1721,24 @@
       "state": "Washington",
       "address": "8608 NE 179th St. Battle Ground, WA 98604",
       "website": "columbiarivercoffee.com"
+    },
+    {
+      "name": "Corazon Coffee Roasters",
+      "state": "Iowa",
+      "address": "516 Elm St West Des Moines, IA 50265",
+      "website": "corazoncoffeeroasters.com"
+    },
+    {
+      "name": "Horizon Line Coffee",
+      "state": "Iowa",
+      "address": "1417 Walnut St., Ste B Des Moines, IA 50309",
+      "website": "horizonlinecoffee.com"
+    },
+    {
+      "name": "Zanzibar's Coffee Adventure",
+      "state": "Iowa",
+      "address": "2723 Ingersoll Avenue Des Moines, IA 50312",
+      "website": "zanzibarscoffee.com"
     }
   ]
 }
