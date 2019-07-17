@@ -1739,6 +1739,12 @@
       "state": "Iowa",
       "address": "2723 Ingersoll Avenue Des Moines, IA 50312",
       "website": "zanzibarscoffee.com"
+    },
+    {
+      "name": "Full City Rooster",
+      "state": "Texas",
+      "address": "1810 S. Akard Street, Dallas TX",
+      "website": "fullcityrooster.com"
     }
   ]
 }
