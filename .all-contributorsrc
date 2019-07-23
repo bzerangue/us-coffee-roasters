@@ -132,6 +132,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "matto2",
+      "name": "Matt O'Leary",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5010471?v=4",
+      "profile": "http://olearystudios.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
