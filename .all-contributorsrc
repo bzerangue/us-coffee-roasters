@@ -141,6 +141,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "johnmichel",
+      "name": "John Michel",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13830?v=4",
+      "profile": "https://www.cowbird.org/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,
