@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "data": [{
       "name": "Mama Mocha's Coffee Emporium",
       "state": "Alabama",
       "address": "414 S Gay Street Auburn, AL  36830",
@@ -1769,6 +1768,12 @@
       "state": "California",
       "address": "104 Bronson Street STE 19 Santa Cruz, CA 95062",
       "website": "vervecoffee.com"
+    },
+    {
+      "name": "Rival Brothers Coffee",
+      "state": "Pennsylvania",
+      "address": "2400 Lombard Street, Philadelphia, PA 19146",
+      "website": "rivalbros.com"
     }
   ]
 }
