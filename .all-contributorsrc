@@ -150,6 +150,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "brykng",
+      "name": "Bryan King",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9124103?v=4",
+      "profile": "http://brykng.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 5,

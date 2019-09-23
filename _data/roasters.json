@@ -1774,6 +1774,11 @@
       "state": "Pennsylvania",
       "address": "2400 Lombard Street, Philadelphia, PA 19146",
       "website": "rivalbros.com"
+    }, {
+      "name": "Carabello Coffee",
+      "state": "Kentucky",
+      "address": "107 E 9th St. Newport, KY, 41071",
+      "website": "carabellocoffee.com"
     }
   ]
 }
