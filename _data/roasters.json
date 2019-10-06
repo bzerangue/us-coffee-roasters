@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "data": [{
       "name": "Mama Mocha's Coffee Emporium",
       "state": "Alabama",
       "address": "414 S Gay Street Auburn, AL  36830",
@@ -1697,12 +1696,89 @@
       "state": "Michigan",
       "address": "98 Monroe Ctr NW, Grand Rapids, MI 49503",
       "website": "madcapcoffee.com"
-    }, 
+    },
     {
       "name": "Mountain City Coffee Roasters",
       "state": "North Carolina",
       "address": "191 Charlotte St Suite 101, Asheville, NC 28801",
       "website": "mountaincity.com"
+    },
+    {
+      "name": "RBT Coffee Co.",
+      "state": "Mississippi",
+      "address": "",
+      "website": "rbtcoffee.com"
+    },
+    {
+      "name": "Compass Coffee Roasting",
+      "state": "Washington",
+      "address": "8013 St Johns Rd Suite P Vancouver, WA 98665",
+      "website": "compasscoffeeroasting.com"
+    },
+    {
+      "name": "Columbia River Coffee Co.",
+      "state": "Washington",
+      "address": "8608 NE 179th St. Battle Ground, WA 98604",
+      "website": "columbiarivercoffee.com"
+    },
+    {
+      "name": "Corazon Coffee Roasters",
+      "state": "Iowa",
+      "address": "516 Elm St West Des Moines, IA 50265",
+      "website": "corazoncoffeeroasters.com"
+    },
+    {
+      "name": "Horizon Line Coffee",
+      "state": "Iowa",
+      "address": "1417 Walnut St., Ste B Des Moines, IA 50309",
+      "website": "horizonlinecoffee.com"
+    },
+    {
+      "name": "Zanzibar's Coffee Adventure",
+      "state": "Iowa",
+      "address": "2723 Ingersoll Avenue Des Moines, IA 50312",
+      "website": "zanzibarscoffee.com"
+    },
+    {
+      "name": "Full City Rooster",
+      "state": "Texas",
+      "address": "1810 S. Akard Street, Dallas TX",
+      "website": "fullcityrooster.com"
+    },
+    {
+      "name": "Elm Coffee Roasters",
+      "state": "Washington",
+      "address": "240 2nd Ave S #103, Seattle, WA 98104",
+      "website": "elmcoffeeroasters.com"
+    },
+    {
+      "name": "The Black Bear Micro Roastery",
+      "state": "New Hampshire",
+      "address": "Center Tuftonboro, NH 03816",
+      "website": "blackbearcoffee.com"
+    },
+    {
+      "name": "Dawson Taylor Coffee Roasters",
+      "state": "Idaho",
+      "address": "1035 S Lusk St, Boise, ID 83706",
+      "website": "dawsontaylor.com"
+    },
+    {
+      "name": "Verve Coffee Roasters",
+      "state": "California",
+      "address": "104 Bronson Street STE 19 Santa Cruz, CA 95062",
+      "website": "vervecoffee.com"
+    },
+    {
+      "name": "Rival Brothers Coffee",
+      "state": "Pennsylvania",
+      "address": "2400 Lombard Street, Philadelphia, PA 19146",
+      "website": "rivalbros.com"
+    }, {
+      "name": "Carabello Coffee",
+      "state": "Kentucky",
+      "address": "107 E 9th St. Newport, KY, 41071",
+      "website": "carabellocoffee.com"
     }
   ]
 }
